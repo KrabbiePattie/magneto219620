@@ -41,6 +41,36 @@
         "value":"",
         "required":false
     },
+    "BUTTON_THREE_NAME":{
+        "description":"(Optional)",
+        "value":"",
+        "required":false
+    },
+    "BUTTON_THREE_URL":{
+        "description":"(Optional)",
+        "value":"",
+        "required":false
+    },
+    "BUTTON_FOUR_NAME":{
+        "description":"(Optional)",
+        "value":"",
+        "required":false
+    },
+    "BUTTON_FOUR_URL":{
+        "description":"(Optional)",
+        "value":"",
+        "required":false
+    },
+    "BUTTON_FIVE_NAME":{
+        "description":"(Optional",
+        "value":"",
+        "required":false
+    },
+    "BUTTON_FIVE_URL":{
+        "description":"(Optional)",
+        "value":"",
+        "required":false
+    },
     "BLOCK_MEGA_LINKS":{
         "description":"If you want to remove mega.nz mirror support (bcoz it's too much buggy and unstable)",
         "value":"true",
