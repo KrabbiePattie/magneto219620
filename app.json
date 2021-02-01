@@ -36,6 +36,11 @@
         "value":"",
         "required": false
     },
+    "AUTHORIZED_CHATS":{
+        "description":"(optional)",
+        "value":"",
+        "required":false
+    }
     "BLOCK_MEGA_LINKS":{
         "description":"If you want to remove mega.nz mirror support (bcoz it's too much buggy and unstable)",
         "value":"true",
