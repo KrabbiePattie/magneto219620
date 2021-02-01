@@ -48,7 +48,7 @@
     },
   "MEGA_API_KEY":{
       "description":"Mega.nz api key to mirror mega.nz links. Get it from Mega SDK Page",
-      "value":"p4dQXbhR",
+      "value":"",
       "required": false
     },
    "STOP_DUPLICATE_MIRROR":{
