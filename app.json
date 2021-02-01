@@ -9,8 +9,8 @@
     "python"
   ],
     "repository": "https://github.com/AmirulAndalib/autobhau.git",
-    "website": "https://t.me/linux_repo",
-    "success_url": "https://t.me/linux_repo",
+    "website": "https://github.com/AmirulAndalib/autobhau",
+    "success_url": "https://github.com/AmirulAndalib/autobhau",
     "stack": "container",
     "env": {
       "ENV": {
