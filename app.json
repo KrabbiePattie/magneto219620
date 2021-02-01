@@ -19,7 +19,7 @@
       },
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
-      "value": "1405603683:AAEnV8tydWvWC1gUH90dr76v4T0qvvu8_MU"
+      "value": ""
     },
     "SHORTENER_API":{
         "description":"Fill your shortener api key if you are using shortener",
@@ -33,7 +33,7 @@
     },
     "MEGA_PASSWORD":{
         "description":"Your mega password",
-        "value":"francispelayo17",
+        "value":"",
         "required": false
     },
     "BLOCK_MEGA_LINKS":{
@@ -43,7 +43,7 @@
     },
     "MEGA_EMAIL_ID":{
         "description":"Your email id you used to sign up on mega.nz for using premium accounts",
-        "value":"hinojalesfelyglo@gmil.com",
+        "value":"",
         "required":false
     },
   "MEGA_API_KEY":{
