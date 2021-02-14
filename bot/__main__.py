@@ -44,7 +44,7 @@ def stats(update, context):
 def start(update, context):
     start_string = f'''
 This is a bot which can mirror all your links to Google drive!
-Type /{BotCommands.HelpCommand} to get a list of available commands
+Type /{BotCommands.HelpCommand} to get a list of available commands........... dont rape the bot my dear friends #Respect_Magento219620# dont ask how to deploy on heroku :)
 '''
     sendMessage(start_string, context.bot, update)
 
